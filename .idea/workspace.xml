@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="77" />
+    <option name="y" value="47" />
+    <option name="width" value="1161" />
+    <option name="height" value="650" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Documents/LAS-P-lightbend-akka-for-scala-professional-v1" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/akka-quickstart-scala" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/akka-samples-persistence-scala" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/knolx-portal" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/knolx-portal-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/scala-01" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/UserManagement-master" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../knowledge-portal-ui" value="PREVIEW" />
+        <entry key="$USER_HOME$/knolx-portal-master" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+</project>
